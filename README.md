@@ -30,8 +30,8 @@ This is a simple web application that summarizes long text into a concise versio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/text-summarizer-app.git
-cd text-summarizer-app
+git clone https://github.com/Sharanya-krishnamurthi/TextSummarizerApp.git
+cd TextSummarizerApp
 ````
 
 ### 2. Install dependencies
