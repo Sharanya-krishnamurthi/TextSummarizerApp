@@ -77,7 +77,6 @@ Then open the Gradio interface in your browser and start summarizing!
 
 ---
 
-## 📜 License
-
-MIT License © \SharanyaKrishnamurthi
+## 📜 Demo
+[HuggingFace Spaces](https://huggingface.co/spaces/sharanya/TextSummarizer)
 
